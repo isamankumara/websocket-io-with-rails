@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SocketApp", "SocketApp.csproj", "{41C44E91-3C38-4D92-B868-4B0D84B82045}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{41C44E91-3C38-4D92-B868-4B0D84B82045}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{41C44E91-3C38-4D92-B868-4B0D84B82045}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{41C44E91-3C38-4D92-B868-4B0D84B82045}.Release|iPhone.ActiveCfg = Release|iPhone
+		{41C44E91-3C38-4D92-B868-4B0D84B82045}.Release|iPhone.Build.0 = Release|iPhone
+		{41C44E91-3C38-4D92-B868-4B0D84B82045}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{41C44E91-3C38-4D92-B868-4B0D84B82045}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{41C44E91-3C38-4D92-B868-4B0D84B82045}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{41C44E91-3C38-4D92-B868-4B0D84B82045}.Debug|iPhone.Build.0 = Debug|iPhone
+	EndGlobalSection
+EndGlobal
